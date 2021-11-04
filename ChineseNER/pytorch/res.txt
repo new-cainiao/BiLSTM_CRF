@@ -1,0 +1,365 @@
+日/B_location ,/E_location 8 
+日/B_location 聚/E_location 8 
+在/B_location 北/E_location 8 
+十/B_location 一/E_location 8 
+广/B_location 州/E_location 11 
+广/B_location 州/E_location 11 
+英/B_product_name 菲/M_product_name 尼/M_product_name 迪/M_product_name Q/M_product_name 5/M_product_name 0/M_product_name 2/M_product_name ./M_product_name 0/M_product_name T/E_product_name 39 
+广/B_location 州/E_location 11 
+英/B_product_name 菲/M_product_name 尼/M_product_name 迪/M_product_name Q/M_product_name 5/M_product_name 0/M_product_name 2/M_product_name ./M_product_name 0/M_product_name T/E_product_name 39 
+小/B_person_name 明/E_person_name 1 
+1/B_time 1/M_time 月/E_time 6 
+北/B_location 京/E_location 9 
+广/B_location 州/E_location 11 
+英/B_product_name 菲/M_product_name 尼/M_product_name 迪/M_product_name Q/M_product_name 5/M_product_name 0/M_product_name 2/M_product_name ./M_product_name 0/M_product_name T/E_product_name 39 
+小/B_person_name 明/E_person_name 1 
+1/B_time 1/M_time 月/E_time 6 
+北/B_location 京/E_location 9 
+广/B_location 州/E_location 11 
+英/B_product_name 菲/M_product_name 尼/M_product_name 迪/M_product_name Q/M_product_name 5/M_product_name 0/M_product_name 2/M_product_name ./M_product_name 0/M_product_name T/E_product_name 39 
+小/B_person_name 明/E_person_name 1 
+1/B_time 1/M_time 月/E_time 6 
+北/B_location 京/E_location 9 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 状/E_independent_key 44 
+元/B_independent_key ，/E_independent_key 19 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 35 
+良/B_independent_key 好/M_independent_key 的/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 43 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 26 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 36 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 17 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 27 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 状/E_independent_key 53 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 25 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 35 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 25 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 35 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 25 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 35 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 112 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 122 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 35 
+撑/B_independent_key ，/M_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 35 
+，/B_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+，/B_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 79 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 66 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 77 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 66 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 77 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 66 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 77 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 70 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/M_independent_value 时/E_independent_value 81 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+，/B_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+，/B_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+，/B_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+，/B_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 31 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 41 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+，/B_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 31 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 41 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+撑/B_independent_key ，/M_independent_key 控/M_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 35 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 27 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 37 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+股/B_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 27 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 37 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+经/B_independent_key 营/M_independent_key 活/M_independent_key 动/M_independent_key 现/M_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4_9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 4_911_18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 8_15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 0_6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 0_67_16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 4-911-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 8-15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 0-6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 0-67-16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 8-15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 0-6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 7-16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 104-15 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 288-6 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 295-16 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 104-111 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 288-294 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 295-304 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 2556-2563 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 7644-7650 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 7651-7660 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 27-34 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 59-65 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 66-75 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 27-34 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 59-65 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 66-75 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 27-34 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 59-65 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 66-75 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 28-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 62-68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 69-78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 28-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 62-68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 69-78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 28-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 62-68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 69-78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 28-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 62-68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 69-78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 28-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 62-68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 69-78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 28-35 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 28-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 62-68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 69-78 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 26-35 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 45-52 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 79-85 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 86-95 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/M_independent_key 净/M_independent_key 额/E_independent_key 4-9 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 26-35 
+1/B_independent_value 2/M_independent_value 5/M_independent_value ,/M_independent_value 6/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 45-52 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 79-85 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 86-95 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 4-7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 26-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 79-85 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 86-95 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 4-7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 20-26 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 27-36 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 80-86 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 87-96 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 4-7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 26-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 79-85 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 86-95 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 4-7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 26-35 
+控/B_independent_key 股/M_independent_key 总/M_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 79-85 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 86-95 
+现/B_independent_key 金/M_independent_key 流/M_independent_key 量/E_independent_key 4-7 
+1/B_independent_value 7/M_independent_value 4/M_independent_value ,/M_independent_value 8/M_independent_value 5/M_independent_value 万/M_independent_value 元/E_independent_value 11-18 
+总/B_independent_key 装/M_independent_key 机/M_independent_key 容/M_independent_key 量/E_independent_key 64-68 
+1/B_independent_value ,/M_independent_value 9/M_independent_value 1/M_independent_value 1/M_independent_value 2/M_independent_value 0/M_independent_value 万/M_independent_value 千/M_independent_value 瓦/E_independent_value 69-78 
